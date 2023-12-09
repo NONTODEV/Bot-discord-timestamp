@@ -1,0 +1,11 @@
+{
+    "token": "MTE4MTEyNDI5MzMwODk4OTQ4MA.G6V8bg.bIlv_DnGLcjL5WRrCmdhanP_sXDOiPcpHKyksY",
+    "mongodb": "mongodb+srv://admin:258000@cluster0.ubu6z1s.mongodb.net/Discord2?retryWrites=true&w=majority",
+    "serverId": "1178552131012284536",
+    "channelIds": {
+        "voiceChannel": "1178552131754672222",
+        "channelenter" : "1181425785832226916",
+        "channelleave" :  "1181425817159467049",
+        "channeltotaltime" : "1181800870929768478"
+    }
+}
